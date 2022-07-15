@@ -1,16 +1,7 @@
-# tugas4
+# Cara Instalasi
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Download Code
+2. Ketika Sudah Bisa Dijalankan Kemudian Login
+3. untuk user bisa dilihat di https://glass-faced-doubt.000webhostapp.com/createuser
+4. bisa menambahkan user juga di link tersebut
+5. Untuk User default password=username.
