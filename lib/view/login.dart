@@ -36,7 +36,6 @@ class _LoginPageState extends State<LoginPage> {
     final data = await http.post(Uri.parse("https://glass-faced-doubt.000webhostapp.com/api.php"),
         body: body);
     var dataUser = json.decode(data.body);
-    // print(dataUser);
 
     if (dataUser.length == 0) {
       AlertDialog(
